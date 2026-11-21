@@ -1,130 +1,176 @@
 
 <div align="center">
 
-# ✨ Hey, I'm Kashish Singh!
+<img src="https://capsule-render.vercel.app/api?type=blur&height=180&color=gradient&customColorList=12,18,20&text=Kashish%20Singh&fontSize=52&fontColor=ffffff&fontAlignY=45&desc=Curious%20mind.%20Creative%20builder.&descSize=16&descAlignY=68" width="100%" />
 
-### Full Stack Developer | AI & ML Enthusiast
+<br/>
 
-*Turning ideas into impactful digital experiences.*
+### `computer science student` · `developer` · `dreamer`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=9B8CFF&center=true&vCenter=true&width=500&lines=Building+AI-powered+applications;Exploring+Machine+Learning;Developing+with+MERN+Stack;Always+learning+and+building!)](https://git.io/typing-svg)
+Building things that make ideas come alive.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kashish-Singh25)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-18122B?style=flat-square&logo=github&logoColor=D8B4FE)](https://github.com/kashish-Singh25)
+[![Profile Views](https://komarev.com/ghpvc/?username=kashish-Singh25&style=flat-square&color=9B7EBD&label=VISITORS)](https://github.com/kashish-Singh25)
 
 </div>
 
 ---
 
-## 🌷 About Me
+<div align="center">
 
-```javascript
-const kashish = {
-    education: "Computer Science Engineering",
-    role: "Full Stack Developer",
-    interests: ["Artificial Intelligence", "Web Development", "Machine Learning"],
-    technologies: ["React", "Node.js", "Express", "MongoDB", "Python"],
-    currentlyBuilding: "AI-powered applications",
-    goal: "Building technology that solves real-world problems",
-    motto: "Learn. Build. Break. Improve. Repeat."
+### ୨୧ A SPACE FOR IDEAS & EXPERIMENTS
+
+*I like understanding how things work, figuring out how they can work better, and turning random ideas into real projects.*
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### ✦ A little about me
+
+- 🎓 Computer Science Engineering student
+- 💻 Interested in Full Stack Development
+- 🧠 Exploring AI, ML and intelligent applications
+- 🛠️ Love building practical projects
+- 🌱 Currently growing my skills in DSA and System Design
+
+</td>
+<td width="45%" valign="top">
+
+### ✦ Currently into
+
+```js
+const focus = {
+  building: "Web applications",
+  exploring: "Artificial Intelligence",
+  learning: "System Design",
+  creating: "Meaningful projects"
 };
 ```
 
-## 💻 What I Do
-
-- Build full-stack web applications using the MERN stack.
-- Integrate AI and LLMs into real-world applications.
-- Develop REST APIs and backend systems.
-- Explore Machine Learning and Natural Language Processing.
-- Collaborate on projects and explore new technologies.
-
-## 🚀 Featured Projects
-
-### 1. SkillSync AI — AI-Powered Recruitment Platform
-
-An intelligent recruitment platform that analyses resumes, identifies skill gaps and matches candidates with relevant job opportunities using semantic similarity and AI.
-
-**Tech Stack:** React · Node.js · Express · MongoDB · OpenRouter
-
-- AI-powered resume analysis.
-- Embedding-based semantic job matching.
-- Student and recruiter dashboards.
-
-[GitHub Repository](https://github.com/kashish-Singh25/skillsync-ai) | [Live Demo](https://skillsync-ai-2-nfh0.onrender.com/)
-
-### 2. Helios Lab — Virtual Electronics Laboratory
-
-A collaborative project focused on an interactive virtual electronics laboratory, with 3D components, circuit simulation and testing features.
-
-**Tech Stack:** React · TypeScript · JavaScript · 3D Web Technologies
-
-[GitHub Repository](https://github.com/TheNandinee/Helios-Lab)
-
-### 3. Fake News Detection
-
-A machine learning project that classifies news articles as real or fake using Natural Language Processing and text classification techniques.
-
-**Tech Stack:** Python · NLP · TF-IDF · Machine Learning
-
-[GitHub Repository](https://github.com/kashish-Singh25/Fake-News-Detection)
-
-### 4. Computer Vision & Object Detection
-
-An object detection project exploring computer vision techniques and YOLOv8 for identifying objects from visual input.
-
-**Tech Stack:** Python · OpenCV · YOLOv8
-
-[GitHub Repository](https://github.com/kashish-Singh25/CV-Detection-Project)
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+## ✧ Things I've brought to life
+
+Not just repositories — little experiments, ideas and solutions I've enjoyed building.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**01 / INTELLIGENCE**
+
+### SkillSync AI
+
+An AI-powered recruitment platform that connects candidate skills with relevant opportunities through resume analysis and semantic job matching.
+
+`React` `Node.js` `MongoDB` `LLMs`
+
+[↗ Explore project](https://github.com/kashish-Singh25/skillsync-ai)
+
+[↗ Live application](https://skillsync-ai-2-nfh0.onrender.com/)
+
+</td>
+<td width="50%" valign="top">
+
+**02 / VIRTUAL EXPERIMENTS**
+
+### Helios Lab
+
+A collaborative virtual electronics laboratory project exploring interactive components, simulation and testing.
+
+`React` `TypeScript` `3D` `Testing`
+
+[↗ Explore project](https://github.com/TheNandinee/Helios-Lab)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**03 / MACHINE LEARNING**
+
+### Fake News Detection
+
+Using NLP and machine learning techniques to classify news articles and identify potentially misleading information.
+
+`Python` `NLP` `TF-IDF` `ML`
+
+[↗ Explore project](https://github.com/kashish-Singh25/Fake-News-Detection)
+
+</td>
+<td width="50%" valign="top">
+
+**04 / COMPUTER VISION**
+
+### Object Detection
+
+Exploring computer vision and object detection using the YOLOv8 model.
+
+`Python` `YOLOv8` `Computer Vision`
+
+[↗ Explore project](https://github.com/kashish-Singh25/CV-Detection-Project)
+
+</td>
+</tr>
+</table>
+
+---
+
+## ✧ My creative toolkit
 
 <div align="center">
 
-### Languages & Development
+**LANGUAGES**
 
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,java,js,html,css)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css&theme=dark" />
 
-### Frontend & Backend
+**DEVELOPMENT**
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind&theme=dark" />
 
-### Tools & Platforms
+**TOOLS & ENVIRONMENT**
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render)](https://skillicons.dev)
-
-</div>
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kashish-Singh25&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kashish-Singh25&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=kashish-Singh25&theme=tokyonight&hide_border=true)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&theme=dark" />
 
 </div>
 
 ---
 
-## 🌱 Currently Learning
-
-- Data Structures & Algorithms
-- System Design
-- Advanced AI Applications
-- Cloud Computing
-
-## 🤝 Let's Connect!
-
-I'm always interested in collaborating on interesting projects, exploring new technologies and connecting with fellow developers.
+## ✧ A little GitHub corner
 
 <div align="center">
 
-### ✨ Thanks for visiting my profile!
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=kashish-Singh25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C4A7E7&icon_color=C4A7E7&text_color=D8DEE9" />
 
-*Keep building. Keep growing. Keep creating.*
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashish-Singh25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C4A7E7&text_color=D8DEE9" />
+
+</div>
+
+---
+
+<div align="center">
+
+### ♡ Beyond the screen
+
+*Always curious about what's next.*
+
+I believe good things happen when creativity meets consistency.
+
+<br/>
+
+**Thanks for wandering through my little corner of GitHub.**
+
+<img src="https://capsule-render.vercel.app/api?type=soft&height=90&color=gradient&customColorList=12,18,20&section=footer" width="100%" />
 
 </div>
