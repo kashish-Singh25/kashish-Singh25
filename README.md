@@ -1,120 +1,153 @@
+
 <div align="center">
 
-<img src="assets/hero.png" width="100%" alt="Kashish Singh — lavender 3D developer profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B1235,50:654A9E,100:C4A7E7&height=220&section=header&text=Kashish%20Singh&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20AI%20Explorer%20%7C%20Creative%20Builder&descAlignY=60&descSize=16" width="100%" />
 
-### Computer Science Student&nbsp; · &nbsp;Full Stack Developer&nbsp; · &nbsp;AI & ML Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=C4A7E7&center=true&vCenter=true&width=600&lines=Building+ideas+into+reality;Exploring+AI+%26+Machine+Learning;Creating+Full+Stack+Applications;Always+Learning+Something+New" />
 
-*Curious mind. Creative builder. Always learning.*
+<br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-kashish--Singh25-201638?style=for-the-badge&logo=github&logoColor=E9D5FF)](https://github.com/kashish-Singh25)
-[![Live Demo](https://img.shields.io/badge/SkillSync_AI-Live_Demo-6D28D9?style=for-the-badge&logo=render&logoColor=white)](https://skillsync-ai-2-nfh0.onrender.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-18122B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kashish-Singh25)
+[![Profile Views](https://komarev.com/ghpvc/?username=kashish-Singh25&style=for-the-badge&color=9B7EBD)](https://github.com/kashish-Singh25)
 
 </div>
 
 ---
 
-## ✦ First, a little about me
+## ✦ A little about me
 
-```js
-const kashish = {
-  role: "Computer Science Engineering student",
-  interests: ["Full Stack Development", "AI & ML", "Problem Solving"],
-  building: ["Web applications", "AI-powered tools"],
-  learning: ["DSA", "System Design", "Advanced AI"],
-  mindset: "Learn by building, improve by experimenting"
-};
-```
+<img align="right" width="190" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-## ✦ My tech universe
+Hey! I'm **Kashish Singh**, a Computer Science Engineering student passionate about technology, creativity and problem-solving.
 
-<div align="center">
-  <img src="assets/3d-skills.png" width="100%" alt="3D lavender skill illustrations for AI, full-stack development, machine learning, computer vision, problem solving and collaboration" />
-</div>
+- Exploring Full Stack Development.
+- Building AI-powered applications.
+- Learning Machine Learning and NLP.
+- Interested in innovative real-world solutions.
+- Always experimenting with new technologies.
 
-| Area | Technologies and focus |
-|---|---|
-| **Frontend** | React, JavaScript, HTML, CSS |
-| **Backend** | Node.js, Express, REST APIs |
-| **Database** | MongoDB |
-| **AI & ML** | OpenRouter, LLM integration, Python, NLP, TF-IDF |
-| **Computer Vision** | Python, YOLOv8 |
-| **Core foundations** | C++, DSA, Git, GitHub |
+<br clear="right"/>
 
-## ✦ Selected projects
+---
 
-<table>
-  <tr>
-    <td width="34%" align="center" valign="middle">
-      <img src="assets/skillsync-3d.png" width="100%" alt="3D AI resume and candidate matching illustration" />
-    </td>
-    <td valign="middle">
-      <h3><a href="https://github.com/kashish-Singh25/skillsync-ai">SkillSync AI</a></h3>
-      <b>AI-powered recruitment platform</b><br/><br/>Analyses resumes, highlights skill gaps and helps match candidates with relevant opportunities using semantic similarity and AI-powered feedback.<br/><br/>
-      <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>OpenRouter</code><br/><br/>
-      <a href="https://skillsync-ai-2-nfh0.onrender.com/">↗ Live application</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="34%" align="center" valign="middle">
-      <img src="assets/helios-3d.png" width="100%" alt="3D virtual electronics board illustration" />
-    </td>
-    <td valign="middle">
-      <h3><a href="https://github.com/TheNandinee/Helios-Lab">Helios Lab</a></h3>
-      <b>Collaborative virtual electronics laboratory</b><br/><br/>An interactive learning and experimentation project. My contribution focuses on testing, monitoring and reporting.<br/><br/>
-      <code>React</code> <code>TypeScript</code> <code>Testing</code> <code>Monitoring</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="34%" align="center" valign="middle">
-      <img src="assets/fake-news-3d.png" width="100%" alt="3D news verification and shield illustration" />
-    </td>
-    <td valign="middle">
-      <h3><a href="https://github.com/kashish-Singh25/Fake-News-Detection">Fake News Detection</a></h3>
-      <b>NLP-based news classification</b><br/><br/>A machine-learning project that uses text processing and TF-IDF features to classify news articles.<br/><br/>
-      <code>Python</code> <code>NLP</code> <code>TF-IDF</code> <code>Machine Learning</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="34%" align="center" valign="middle">
-      <img src="assets/cv-detection-3d.png" width="100%" alt="3D computer vision camera and detection frame illustration" />
-    </td>
-    <td valign="middle">
-      <h3><a href="https://github.com/kashish-Singh25/CV-Detection-Project">Computer Vision & Object Detection</a></h3>
-      <b>Exploring visual intelligence</b><br/><br/>An object-detection project exploring YOLOv8 and computer vision workflows.<br/><br/>
-      <code>Python</code> <code>YOLOv8</code> <code>Computer Vision</code>
-    </td>
-  </tr>
-</table>
-
-## ✦ Tools I work with
+## ✧ Things I've built
 
 <div align="center">
 
-**LANGUAGES**<br/>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css&theme=dark" alt="Python, C++, Java, JavaScript, HTML and CSS"/><br/><br/>
-**DEVELOPMENT**<br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark" alt="React, Node.js, Express and MongoDB"/><br/><br/>
-**TOOLS**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Git, GitHub, VS Code and Postman"/>
+<a href="https://github.com/kashish-Singh25/skillsync-ai">
+<img src="https://img.shields.io/badge/01-SKILLSYNC_AI-654A9E?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
-## ✦ GitHub activity
+### 🧠 SkillSync AI
+
+An AI-powered recruitment platform that analyses resumes and matches candidates with relevant job opportunities using semantic similarity.
+
+**Tech:** React · Node.js · Express · MongoDB · OpenRouter
+
+[Repository](https://github.com/kashish-Singh25/skillsync-ai) • [Live Demo](https://skillsync-ai-2-nfh0.onrender.com/)
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kashish-Singh25&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C4A7E7&icon_color=C4A7E7&text_color=E6DDF2" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashish-Singh25&layout=compact&hide_border=true&bg_color=0D1117&title_color=C4A7E7&text_color=E6DDF2" alt="Most-used languages" />
+
+<a href="https://github.com/TheNandinee/Helios-Lab">
+<img src="https://img.shields.io/badge/02-HELIOS_LAB-8064B0?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </div>
 
+### ⚡ Helios Lab
+
+A collaborative virtual electronics laboratory project exploring interactive components, simulation and testing.
+
+**Tech:** React · TypeScript · JavaScript · 3D Web Technologies
+
+[Repository](https://github.com/TheNandinee/Helios-Lab)
+
 <div align="center">
-  <img width="95%" src="https://streak-stats.demolab.com?user=kashish-Singh25&hide_border=true&background=0D1117&ring=C4A7E7&fire=E0B0FF&currStreakLabel=C4A7E7&sideLabels=E6DDF2&dates=9B8AAE" alt="GitHub contribution streak" />
+
+<a href="https://github.com/kashish-Singh25/Fake-News-Detection">
+<img src="https://img.shields.io/badge/03-FAKE_NEWS_DETECTION-654A9E?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </div>
 
-## ✦ What keeps me building
+### 🔍 Fake News Detection
 
-> Stay curious, build with purpose, and make every project a little better than the last.
+A machine learning project that classifies news articles using NLP and text classification techniques.
+
+**Tech:** Python · NLP · TF-IDF · Machine Learning
+
+[Repository](https://github.com/kashish-Singh25/Fake-News-Detection)
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=90&color=gradient&customColorList=12,18,20&section=footer" width="100%" alt="Lavender gradient footer" />
-  <i>Thanks for visiting my little corner of GitHub ♡</i>
+
+<a href="https://github.com/kashish-Singh25/CV-Detection-Project">
+<img src="https://img.shields.io/badge/04-COMPUTER_VISION-8064B0?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+### 📸 Computer Vision
+
+An object detection project exploring YOLOv8 and computer vision techniques.
+
+**Tech:** Python · OpenCV · YOLOv8
+
+[Repository](https://github.com/kashish-Singh25/CV-Detection-Project)
+
+---
+
+## ✧ My Tech Universe
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css&theme=dark" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind&theme=dark" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&theme=dark" />
+
+</div>
+
+---
+
+## ✧ My 3D GitHub Universe
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/kashish-Singh25/kashish-Singh25/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+
+</div>
+
+---
+
+## ✧ GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kashish-Singh25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C4A7E7&icon_color=C4A7E7" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashish-Singh25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C4A7E7" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=kashish-Singh25&theme=tokyonight&hide_border=true&background=0D1117&ring=C4A7E7&fire=C4A7E7" width="70%" />
+
+</div>
+
+---
+
+<div align="center">
+
+### ✦ Currently growing, creating & exploring.
+
+*Code is my canvas. Curiosity is my fuel.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B1235,50:654A9E,100:C4A7E7&height=120&section=footer" width="100%" />
+
 </div>
