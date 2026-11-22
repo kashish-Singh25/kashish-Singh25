@@ -1,3 +1,4 @@
+
 <!-- ═════════════════════════════════ HERO ═════════════════════════════════ -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,45:151B2B,80:8B5CF6,100:38BDF8&height=260&section=header&text=KASHISH%20SINGH&fontSize=68&fontColor=FFFFFF&fontAlignY=36&desc=AI-Powered%20Full-Stack%20Developer&descSize=20&descAlignY=56&descColor=38BDF8&animation=fadeIn" width="100%" alt="Kashish Singh"/>
@@ -10,7 +11,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-BUILDING-8B5CF6?style=for-the-badge&labelColor=0B0F19"/>
   <img src="https://img.shields.io/badge/FEATURED_PROJECTS-04-38BDF8?style=for-the-badge&labelColor=0B0F19"/>
-  <img src="https://img.shields.io/badge/LIVE_DEMOS-02-8B5CF6?style=for-the-badge&labelColor=0B0F19"/>
+  <img src="https://img.shields.io/badge/LIVE_DEMOS-03-8B5CF6?style=for-the-badge&labelColor=0B0F19"/>
   <img src="https://komarev.com/ghpvc/?username=kashish-Singh25&label=PROFILE%20VIEWS&color=38BDF8&style=for-the-badge&labelColor=0B0F19" alt="Profile views"/>
 </p>
 
@@ -150,7 +151,8 @@ $ echo $MISSION
   <img src="https://img.shields.io/badge/Sentry-0B0F19?style=flat-square&logo=sentry&logoColor=8B5CF6"/>
 </p>
 <p align="center">
-  <a href="https://github.com/TheNandinee/Helios-Lab"><img src="https://img.shields.io/badge/SOURCE_CODE-0B0F19?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/TheNandinee/Helios-Lab"><img src="https://img.shields.io/badge/SOURCE_CODE-0B0F19?style=for-the-badge&logo=github&logoColor=white" alt="Helios Lab Source Code"/></a>
+  <a href="https://helioslab-five.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Helios Lab Live Demo"/></a>
 </p>
 
 <br/>
@@ -260,7 +262,8 @@ $ echo $MISSION
   <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-151B2B?style=for-the-badge&logo=gmail&logoColor=8B5CF6"/></a>
   -->
   <a href="https://skillsync-ai-2-nfh0.onrender.com/"><img src="https://img.shields.io/badge/TRY_SKILLSYNC_AI-8B5CF6?style=for-the-badge&logo=render&logoColor=white"/></a>
-  <a href="https://restrosphere-1.onrender.com/"><img src="https://img.shields.io/badge/TRY_RESTROSPHERE-38BDF8?style=for-the-badge&logo=render&logoColor=0B0F19"/></a>
+  <a href="https://helioslab-five.vercel.app/"><img src="https://img.shields.io/badge/TRY_HELIOS_LAB-38BDF8?style=for-the-badge&logo=vercel&logoColor=0B0F19"/></a>
+  <a href="https://restrosphere-1.onrender.com/"><img src="https://img.shields.io/badge/TRY_RESTROSPHERE-8B5CF6?style=for-the-badge&logo=render&logoColor=white"/></a>
 </p>
 
 <p align="center"><code>// thanks for visiting — feel free to explore the repos ✦</code></p>
