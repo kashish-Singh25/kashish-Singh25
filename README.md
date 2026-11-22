@@ -134,15 +134,9 @@ $ echo $MISSION
 <br/>
 
 <!-- [02] Helios Lab -->
-
-<!-- [02] Helios Lab -->
-
-
-<!-- [02] Helios Lab -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0B0F19,60:151B2B,100:38BDF8&height=120&text=%5B02%5D%20Helios%20Lab&fontSize=36&fontColor=FFFFFF&fontAlignY=40&desc=Collaborative%20virtual%20IoT%20%26%20electronics%20lab&descSize=16&descAlignY=70&descColor=8B5CF6" width="100%" alt="Helios Lab"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0B0F19,60:151B2B,100:8B5CF6&height=120&text=%5B01%5D%20SkillSync%20AI&fontSize=36&fontColor=FFFFFF&fontAlignY=40&desc=AI-powered%20recruitment%20platform&descSize=16&descAlignY=70&descColor=38BDF8" width="100%" alt="SkillSync AI"/>
 </p>
-
 
 
 <p align="center">
