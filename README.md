@@ -134,13 +134,18 @@ $ echo $MISSION
 <br/>
 
 <!-- [02] Helios Lab -->
+
+<!-- [02] Helios Lab -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0B0F19,60:151B2B,100:38BDF8&height=120&text=%5B02%5D%20Helios%20Lab&fontSize=36&fontColor=FFFFFF&fontAlignY=40&desc=Collaborative%20virtual%20IoT%20%26%20electronics%20lab&descSize=16&descAlignY=70&descColor=8B5CF6" width="100%" alt="Helios Lab"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0B0F19,60:151B2B,100:38BDF8&height=120&text=%5B02%5D%20Helios%20Lab&fontSize=36&fontColor=FFFFFF&fontAlignY=40&desc=Collaborative%20Virtual%20IoT%20%26%20Electronics%20Lab&descSize=16&descAlignY=70&descColor=8B5CF6" width="100%" alt="Helios Lab"/>
 </p>
+
 <p align="center">
-  A <b>collaborative virtual laboratory</b> for IoT and electronics with <b>interactive simulations</b>, <b>3D elements</b>,<br/>
-  testing and monitoring, plus a <b>2D fallback</b> so it still works on lower-end devices. <i>(Team project)</i>
+  A <b>collaborative virtual laboratory</b> for IoT and electronics featuring
+  <b>interactive simulations</b>, <b>3D elements</b>, real-time testing and monitoring,
+  plus a <b>2D fallback</b> for lower-end devices. <i>(Team Project)</i>
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-0B0F19?style=flat-square&logo=nextdotjs&logoColor=8B5CF6"/>
   <img src="https://img.shields.io/badge/TypeScript-0B0F19?style=flat-square&logo=typescript&logoColor=8B5CF6"/>
@@ -150,9 +155,14 @@ $ echo $MISSION
   <img src="https://img.shields.io/badge/Playwright-0B0F19?style=flat-square"/>
   <img src="https://img.shields.io/badge/Sentry-0B0F19?style=flat-square&logo=sentry&logoColor=8B5CF6"/>
 </p>
+
 <p align="center">
-  <a href="https://github.com/TheNandinee/Helios-Lab"><img src="https://img.shields.io/badge/SOURCE_CODE-0B0F19?style=for-the-badge&logo=github&logoColor=white" alt="Helios Lab Source Code"/></a>
-  <a href="https://helioslab-five.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Helios Lab Live Demo"/></a>
+  <a href="https://github.com/TheNandinee/Helios-Lab">
+    <img src="https://img.shields.io/badge/SOURCE_CODE-0B0F19?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://helioslab-five.vercel.app/">
+    <img src="https://img.shields.io/badge/LIVE_DEMO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
 <br/>
