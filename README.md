@@ -136,9 +136,12 @@ $ echo $MISSION
 <!-- [02] Helios Lab -->
 
 <!-- [02] Helios Lab -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0B0F19,60:151B2B,100:38BDF8&height=120&text=%5B02%5D%20Helios%20Lab&fontSize=36&fontColor=FFFFFF&fontAlignY=40&desc=Collaborative%20Virtual%20IoT%20%26%20Electronics%20Lab&descSize=16&descAlignY=70&descColor=8B5CF6" width="100%" alt="Helios Lab"/>
+  <h1> [02] Helios Lab </h1>
+  <strong>Collaborative Virtual IoT & Electronics Lab</strong>
 </p>
+
 
 <p align="center">
   A <b>collaborative virtual laboratory</b> for IoT and electronics featuring
