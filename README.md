@@ -135,17 +135,14 @@ $ echo $MISSION
 
 <!-- [02] Helios Lab -->
 
-<!-- [02] Helios Lab -->
+<!-- [02] HELIOS LAB -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0B0F19,60:151B2B,100:8B5CF6&height=120&text=%5B02%5D%20Helios%20Lab&fontSize=36&fontColor=FFFFFF&fontAlignY=40&desc=Collaborative%20virtual%20IoT%20%26%20electronics%20lab&descSize=16&descAlignY=70&descColor=38BDF8" width="100%" alt="Helios Lab"/>
 </p>
 
-
-
 <p align="center">
-  A <b>collaborative virtual laboratory</b> for IoT and electronics featuring
-  <b>interactive simulations</b>, <b>3D elements</b>, real-time testing and monitoring,
-  plus a <b>2D fallback</b> for lower-end devices. <i>(Team Project)</i>
+  A <b>collaborative virtual laboratory</b> for IoT and electronics with <b>interactive simulations</b>, <b>3D elements</b>,<br/>
+  testing and monitoring, plus a <b>2D fallback</b> so it still works on lower-end devices. <i>(Team project)</i>
 </p>
 
 <p align="center">
@@ -169,6 +166,8 @@ $ echo $MISSION
 
 <br/>
 
+
+ 
 <!-- [03] RestroSphere -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0B0F19,60:151B2B,100:8B5CF6&height=120&text=%5B03%5D%20RestroSphere&fontSize=36&fontColor=FFFFFF&fontAlignY=40&desc=AI-powered%20multi-restaurant%20SaaS%20platform&descSize=16&descAlignY=70&descColor=38BDF8" width="100%" alt="RestroSphere"/>
