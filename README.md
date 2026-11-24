@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,45:151B2B,80:8B5CF6,100:38BDF8&height=260&section=header&text=KASHISH%20SINGH&fontSize=68&fontColor=FFFFFF&fontAlignY=36&desc=AI-Powered%20Full-Stack%20Developer&descSize=20&descAlignY=56&descColor=38BDF8&animation=fadeIn" width="100%" alt="Kashish Singh"/>
 </p>
-
+ 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=680&lines=%3E+Building+AI-powered+web+products_;%3E+Resume+analysis+%7C+Semantic+job+matching_;%3E+Role-based+SaaS+dashboards_;%3E+NLP+%7C+Machine+Learning+%7C+Full-Stack_" alt="Typing tagline"/>
 </p>
