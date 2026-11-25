@@ -268,6 +268,7 @@ $ echo $MISSION
 
 <p align="center">
   <a href="https://github.com/kashish-Singh25"><img src="https://img.shields.io/badge/GitHub-0B0F19?style=for-the-badge&logo=github&logoColor=white"/></a>
+  DIL0
 
     <a href="YOUR_PORTFOLIO_VERCEL_URL">
     <img src="https://img.shields.io/badge/MY_PORTFOLIO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
