@@ -268,6 +268,10 @@ $ echo $MISSION
 
 <p align="center">
   <a href="https://github.com/kashish-Singh25"><img src="https://img.shields.io/badge/GitHub-0B0F19?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+    <a href="YOUR_PORTFOLIO_VERCEL_URL">
+    <img src="https://img.shields.io/badge/MY_PORTFOLIO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
   <!-- Uncomment and add your real links:
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-151B2B?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/></a>
   <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-151B2B?style=for-the-badge&logo=gmail&logoColor=8B5CF6"/></a>
